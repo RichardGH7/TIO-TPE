@@ -9,5 +9,3 @@ if (typeof exports !== 'undefined') {
   }
   exports.THREE = THREE;
 } else {
-  this['THREE'] = THREE;
-}
